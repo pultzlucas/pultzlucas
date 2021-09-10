@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, WELCOME to my github profile!
+I'm Lucas Pultz and ...
 
-<!--
-**pultzlucas/pultzlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔨 I’m currently working on [Templo](https://github.com/pultzlucas/templo).
+- 💡 I’m currently learning Rust programming language and Backend Web.
+- 👯 I’m looking to collaborate with the open source community and network with other programmers.
+- 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/lucas-pultz-375166203/) / pultzlucas@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/pultzlucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pultzlucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pultzlucas&layout=compact&langs_count=7&theme=dracula">
+</div>
+  
+ ### Repositories
+ 
