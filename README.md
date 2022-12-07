@@ -2,7 +2,7 @@
 I'm Lucas Pultz and ...
 
 - 🔨 I’m currently working on [MeConnect](https://github.com/pultzlucas/meconnect).
-- 💡 I’m currently learning Rust programming language and Backend Web.
+- 💡 I’m currently learning React Native/Expo and Backend Web.
 - 👯 I’m looking to collaborate with the open source community and network with other programmers.
 
 <div>
