@@ -2,7 +2,7 @@
 I'm Lucas Pultz and ...
 
 - 🔨 I’m currently working on [chess](https://github.com/pultzlucas/chess).
-- 💡 I’m currently learning React Native/Expo and Backend Web.
+- 💡 I’m currently learning Python and Web Scraping.
 - 👯 I’m looking to collaborate with the open source community and network with other programmers.
 
 <div>
